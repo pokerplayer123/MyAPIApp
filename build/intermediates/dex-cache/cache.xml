@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_985922cc104de4baa9b3f291f099a01d53d6a0bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f4bd886a2da88cfe6fd4f90b5b95d05a9c47cb68\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="79f10814ccc3cf45cd5c1d566a3f6b5bcf7c1562">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-2.0.0_3956c1923318804f66bff85bc9f72bc2494df123\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_5ebb5b9d344d5c3a54dd1ce6bda6eecafb566a8e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_be4e75172fc0e0cc88e758d34576c78123983ca5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\twitter-text-1.13.0_f710a7cb2dde8f90ab04097835d1fed0d29cdd84\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_e98f33f0e61e459af0da88d6b31fd4d41f8b9880\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_bcf9dc14b6a2f4c0604aa7252e83841fe3ba34c4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_0dae93c7ea5b2d08a8adcc6832a0868dcb67e56a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_037281bf1384acbe54713079a4bd54b5c025d5db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.13\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23e3acde10f4cf52778f8dc88107fb96459f2392">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.13_8358fdc311bbb158655a6e7607974b0eef1e9e4a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_c7ab1254e127416db1070b0ab6dfa6645c3cdd66\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_e1e907a047b6bb273d41aaaec5bc82ab89cb4056\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_c46cd98e1b432190f81367ad104a3168192d85f5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7606fe89168dc6e77d47b608ddce94050602136f">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d87f48b6fb7835cebd6fbcc43af8a81ec542691a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_c005126147ad00f686c4c2cd663e87bd3a9120be\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_bff99f05c4a2830a0b47688ea7c69a245cb10173\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_ef1d0b380b877e447297a353eb838a44df3bf2cb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_ba477fe6f7b320df9c8c1139c25f87c9bd11f9bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_042c4c7a0d8617d113c8a26813f5c35817c2b68d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_41a44410b867afded9ed653243a69ebf1cccc8a1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_a47b643b3deacf6b19ec66943829089b68b0cae3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6b57821de6e2cbd036be860fea35812a413a3a9d">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-composer-2.0.0_f34fc74f8ae228616b8885dc84871cdfd059b2d0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_8347a4ef968bf30f4008cdae9b870d8cecbf21fd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_586efc2f78d0ca77a0e63977f3194e96f7dc80d3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_83b71d213369ee84f1f1681eaf6e51bb81ece29e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fa3b31e87a68d22948c50d9e5d459f214f291cca">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_86b9ec24b8417ae070501731446a0b274e86e240\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b0424f06fdb2897efee7b4cf999c60e0b1bbfe50">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-ui-2.0.0_f3c37def6921236557fec3aae68e1a320fbda867\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="933ee15f1696c3583a97e6f6d6662a97f0d2019d">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-core-2.0.0_55f55aacb93218517a7e7cd4833d5f703b4330f8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1c580962e1e1ee672ca6186bf8ff37eb63e352a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Aaron\Documents\INFS3634\Projects\AppAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_920415d9184000c40fb81bb18b2a7e600a584b18\classes.dex" />
+    </item>
+
+</items>
